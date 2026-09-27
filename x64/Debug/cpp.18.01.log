@@ -1,0 +1,5 @@
+﻿  cpp.18.01.cpp
+C:\Users\DamTuTai\source\repos\Hoc_C-_Nguyen_Vu\cpp.18.01\cpp.18.01.cpp(44,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DamTuTai\source\repos\Hoc_C-_Nguyen_Vu\cpp.18.01\cpp.18.01.cpp(259,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DamTuTai\source\repos\Hoc_C-_Nguyen_Vu\cpp.18.01\cpp.18.01.cpp(263,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  cpp.18.01.vcxproj -> C:\Users\DamTuTai\source\repos\Hoc_C-_Nguyen_Vu\x64\Debug\cpp.18.01.exe

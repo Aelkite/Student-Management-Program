@@ -21,4 +21,4 @@ Sort (ascending order) through Student ID, ABC(Full name), age, point
 Compile Statistics about Average point; excellent, good, poor rate; the highest point
 <img width="1482" height="268" alt="image" src="https://github.com/user-attachments/assets/0a9aaa65-4d30-4a26-b158-369b982d57fb" />
 
-After all, you can save and the content will in the Dataofcpp18.txt (It also the input file).
+After all, you can save and the content will in the Dataofcpp18.txt (It's also the input file).

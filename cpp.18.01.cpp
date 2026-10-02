@@ -190,6 +190,13 @@ void erase(LinkedList* list)
 		return;
 	}
 
+	if (index == 1)
+	{
+		Node* OldNode = list->head;
+		list->head = list->head->next;
+		free(OldNode);
+	}
+
 	//move to the position immediately before the erased point
 	int count = 1;
 	Node* p = list->head;
